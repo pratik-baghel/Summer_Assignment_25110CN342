@@ -26,7 +26,7 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_08 | Half pyramid, Number triangle, Character triangle, Patterns | ✅ Done |
 | Day_09 | Reverse star, Number triangle, Character pattern, Hollow square | ✅ Done |
 | Day_10 | Star pyramid, Reverse pyramid, Number pyramid, Char pyramid | ✅ Done |
-| Day_11 | Functions - Sum, Maximum, Prime, Factorial | 🔲 Pending |
+| Day_11 | Functions - Sum, Maximum, Prime, Factorial |  ✅ Done |
 | Day_12 | Functions - Palindrome, Armstrong, Fibonacci, Perfect | 🔲 Pending |
 | Day_13 | Arrays - Input, Sum/Avg, Largest/Smallest, Even/Odd | 🔲 Pending |
 | Day_14 | Linear search, Frequency, Second largest, Duplicates | 🔲 Pending |
@@ -48,8 +48,8 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_30 | Mini project using arrays, strings & functions | 🔲 Pending |
 
 ## 📈 Overall Progress
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-10/30 Days Complete | 40/120 Questions Done
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+11/30 Days Complete | 44/120 Questions Done
 
 ## 💻 Language
 - C Programming
