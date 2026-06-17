@@ -29,7 +29,7 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_11 | Functions - Sum, Maximum, Prime, Factorial |  ✅ Done |
 | Day_12 | Functions - Palindrome, Armstrong, Fibonacci, Perfect | ✅ Done |
 | Day_13 | Arrays - Input, Sum/Avg, Largest/Smallest, Even/Odd | ✅ Done |
-| Day_14 | Linear search, Frequency, Second largest, Duplicates | 🔲 Pending |
+| Day_14 | Linear search, Frequency, Second largest, Duplicates | ✅ Done |
 | Day_15 | Reverse array, Rotate left/right, Move zeroes | 🔲 Pending |
 | Day_16 | Missing number, Max frequency, Pair sum, Remove duplicates | 🔲 Pending |
 | Day_17 | Merge, Union, Intersection of arrays | 🔲 Pending |
@@ -48,8 +48,8 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_30 | Mini project using arrays, strings & functions | 🔲 Pending |
 
 ## 📈 Overall Progress
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-13/30 Days Complete | 52/120 Questions Done
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+14/30 Days Complete | 56/120 Questions Done
 
 ## 💻 Language
 - C Programming
