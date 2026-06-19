@@ -33,7 +33,7 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_15 | Reverse array, Rotate left/right, Move zeroes | ✅ Done |
 | Day_16 | Missing number, Max frequency, Pair sum, Remove duplicates | ✅ Done  |
 | Day_17 | Merge, Union, Intersection of arrays |✅ Done |
-| Day_18 | Bubble sort, Selection sort, Binary search | 🔲 Pending |
+| Day_18 | Bubble sort, Selection sort, Binary search | ✅ Done |
 | Day_19 | Matrix Add, Subtract, Transpose, Diagonal sum | 🔲 Pending |
 | Day_20 | Matrix Multiply, Symmetric, Row/Column sum | 🔲 Pending |
 | Day_21 | String length, Reverse, Vowels, Case conversion | 🔲 Pending |
@@ -48,8 +48,8 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_30 | Mini project using arrays, strings & functions | 🔲 Pending |
 
 ## 📈 Overall Progress
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-17/30 Days Complete | 68/120 Questions Done
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+18/30 Days Complete | 72/120 Questions Done
 
 ## 💻 Language
 - C Programming
