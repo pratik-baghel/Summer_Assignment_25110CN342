@@ -35,7 +35,7 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_17 | Merge, Union, Intersection of arrays |✅ Done |
 | Day_18 | Bubble sort, Selection sort, Binary search | ✅ Done |
 | Day_19 | Matrix Add, Subtract, Transpose, Diagonal sum |  ✅ Done |
-| Day_20 | Matrix Multiply, Symmetric, Row/Column sum | 🔲 Pending |
+| Day_20 | Matrix Multiply, Symmetric, Row/Column sum |  ✅ Done |
 | Day_21 | String length, Reverse, Vowels, Case conversion | 🔲 Pending |
 | Day_22 | Palindrome string, Word count, Char frequency | 🔲 Pending |
 | Day_23 | Non-repeating char, Anagram, Max occurring char | 🔲 Pending |
@@ -48,8 +48,8 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_30 | Mini project using arrays, strings & functions | 🔲 Pending |
 
 ## 📈 Overall Progress
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-19/30 Days Complete | 76/120 Questions Done
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+20/30 Days Complete | 80/120 Questions Done 
 
 ## 💻 Language
 - C Programming
