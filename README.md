@@ -37,7 +37,7 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_19 | Matrix Add, Subtract, Transpose, Diagonal sum |  ✅ Done |
 | Day_20 | Matrix Multiply, Symmetric, Row/Column sum |  ✅ Done |
 | Day_21 | String length, Reverse, Vowels, Case conversion | ✅ Done |
-| Day_22 | Palindrome string, Word count, Char frequency | 🔲 Pending |
+| Day_22 | Palindrome string, Word count, Char frequency | ✅ Done |
 | Day_23 | Non-repeating char, Anagram, Max occurring char | 🔲 Pending |
 | Day_24 | String rotation, Compression, Longest word | 🔲 Pending |
 | Day_25 | Merge sorted arrays, Common chars, Sort names | 🔲 Pending |
@@ -48,8 +48,8 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_30 | Mini project using arrays, strings & functions | 🔲 Pending |
 
 ## 📈 Overall Progress
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
-21/30 Days Complete | 84/120 Questions Done 
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
+22/30 Days Complete | 88/120 Questions Done 
 
 ## 💻 Language
 - C Programming
