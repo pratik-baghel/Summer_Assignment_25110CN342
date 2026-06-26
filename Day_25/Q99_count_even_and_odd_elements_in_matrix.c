@@ -6,7 +6,7 @@ int main()
  int r,c,i,j;
  int even=0,odd=0;
 
- printf("Enter rows and cols : ");
+ printf("Enter rows and columns : ");
  scanf("%d%d",&r,&c);
 
  for(i=0;i<r;i++)

@@ -41,15 +41,15 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_23 | Non-repeating char, Anagram, Max occurring char | ✅ Done |
 | Day_24 | String rotation, Compression, Longest word | ✅ Done |
 | Day_25 | Merge sorted arrays, Common chars, Sort names | ✅ Done |
-| Day_26 | Guessing game, Voting system, ATM, Quiz app | 🔲 Pending |
+| Day_26 | Guessing game, Voting system, ATM, Quiz app | ✅ Done |
 | Day_27 | Student, Employee, Salary management systems | 🔲 Pending |
 | Day_28 | Library, Bank, Ticket, Contact management | 🔲 Pending |
 | Day_29 | Menu-driven Calculator, Array ops, String ops | 🔲 Pending |
 | Day_30 | Mini project using arrays, strings & functions | 🔲 Pending |
 
 ## 📈 Overall Progress
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
-25/30 Days Complete | 100/120 Questions Done 
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
+26/30 Days Complete | 104/120 Questions Done 
 
 ## 💻 Language
 - C Programming
