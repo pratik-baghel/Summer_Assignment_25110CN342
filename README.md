@@ -43,13 +43,13 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_25 | Merge sorted arrays, Common chars, Sort names | ✅ Done |
 | Day_26 | Guessing game, Voting system, ATM, Quiz app | ✅ Done |
 | Day_27 | Student, Employee, Salary management systems | ✅ Done |
-| Day_28 | Library, Bank, Ticket, Contact management | 🔲 Pending |
+| Day_28 | Library, Bank, Ticket, Contact management | ✅ Done |
 | Day_29 | Menu-driven Calculator, Array ops, String ops | 🔲 Pending |
 | Day_30 | Mini project using arrays, strings & functions | 🔲 Pending |
 
 ## 📈 Overall Progress
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
-27/30 Days Complete | 108/120 Questions Done 
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
+28/30 Days Complete | 112/120 Questions Done 
 
 ## 💻 Language
 - C Programming
