@@ -44,12 +44,12 @@ Assignments. Total: 30 Days | 120 Questions
 | Day_26 | Guessing game, Voting system, ATM, Quiz app | ✅ Done |
 | Day_27 | Student, Employee, Salary management systems | ✅ Done |
 | Day_28 | Library, Bank, Ticket, Contact management | ✅ Done |
-| Day_29 | Menu-driven Calculator, Array ops, String ops | 🔲 Pending |
-| Day_30 | Mini project using arrays, strings & functions | 🔲 Pending |
+| Day_29 | Menu-driven Calculator, Array ops, String ops | ✅ Done |
+| Day_30 | Mini project using arrays, strings & functions | ✅ Done |
 
 ## 📈 Overall Progress
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
-28/30 Days Complete | 112/120 Questions Done 
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+30/30 Days Complete | 120/120 Questions Done 
 
 ## 💻 Language
 - C Programming
